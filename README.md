@@ -19,3 +19,7 @@ Then client.publish() method is used to create a publisher and this method takes
 Subscriber not only uses the datas in server also listens to the messages left on channels
 As soon as publishers publishes the message the subscriber receives the message
 
+to start : 
+node sub.js in one terminal
+parallely start
+node pub.js in other terminal
